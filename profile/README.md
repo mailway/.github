@@ -1,6 +1,7 @@
-# Mailway
-
-**Every email your app sends, accounted for.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="mailway-banner-dark.svg">
+  <img src="mailway-banner-light.svg" alt="Mailway: Keep every email your app sends." width="100%">
+</picture>
 
 Mailway sits between your app and the email providers you already use. It keeps every email as it received it and shows what happened to each one, and if a provider refuses a mail, it sends it through the next.
 
